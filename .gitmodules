@@ -1,0 +1,3 @@
+[submodule "arch-dotfiles"]
+	path = arch-dotfiles
+	url = https://github.com/mislavzanic/arch-dotfiles
