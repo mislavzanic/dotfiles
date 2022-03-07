@@ -1,3 +1,6 @@
 [submodule "arch-dotfiles"]
 	path = arch-dotfiles
 	url = https://github.com/mislavzanic/arch-dotfiles
+[submodule "nixos-dotfiles"]
+	path = nixos-dotfiles
+	url = git@github.com:mislavzanic/nixos-dotfiles
